@@ -1,116 +1,115 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<div align="center">
 
-###
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · amirrezaabbasiai-svg</sub></p>
+<h1>Amirreza Abbasi</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>AI &amp; Computer Vision Enthusiast | Python Developer | Local AI &amp; Ollama User | Building privacy-focused and offline AI solutions with a passion for open-source</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+<p><a href="https://github.com/amirrezaabbasiai-svg">GitHub</a> &nbsp;·&nbsp; <a href="https://amirrezaabbasi.taplink.bio">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/249611022?v=4" width="180" alt="Amirreza Abbasi GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-###
+<h2>What teams can evaluate quickly</h2>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="http://t.me/AmirrezaabbasiAI" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/amirreza.build/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · Python · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>19 repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>105 contributions · 18 active days</p></td>
+</tr>
+</table>
 
-###
+<p><sub>AI &amp; Computer Vision Enthusiast | Python Developer | Local AI &amp; Ollama User | Building privacy-focused and offline AI solutions with a passion for open-source</sub></p>
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=amirrezaabbasiai-svg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<h2>Proof at a glance</h2>
 
-###
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>19</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>105</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/amirrezaabbasiai-svg/amirrezaabbasiai-svg/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=amirrezaabbasiai-svg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F249611022%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=amirrezaabbasiai-svg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F249611022%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Amirreza Abbasi GitHub proof metrics" />
+</picture>
+</p>
 
-###
+<h2>Selected work</h2>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-</div>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amirrezaabbasiai-svg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F249611022%3Fv%3D4&repos=amirrezaabbasiai-svg%2FAI-chatbot%2Camirrezaabbasiai-svg%2FDecisionTree-test-simulate%2Camirrezaabbasiai-svg%2FGoogleML%2Camirrezaabbasiai-svg%2Fagent-office&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=amirrezaabbasiai-svg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F249611022%3Fv%3D4&repos=amirrezaabbasiai-svg%2FAI-chatbot%2Camirrezaabbasiai-svg%2FDecisionTree-test-simulate%2Camirrezaabbasiai-svg%2FGoogleML%2Camirrezaabbasiai-svg%2Fagent-office&v=recruiter-projects-1&mode=dark" width="100%" alt="Amirreza Abbasi selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/amirrezaabbasiai-svg/AI-chatbot">AI-chatbot</a></h3>
+<p>An intelligent, modular AI chatbot designed to understand natural language and deliver accurate, context-aware responses through both text and voice i</p>
+<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/amirrezaabbasiai-svg/AI-chatbot">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-###
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/amirrezaabbasiai-svg/DecisionTree-test-simulate">DecisionTree-test-simulate</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/amirrezaabbasiai-svg/GoogleML">GoogleML</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/amirrezaabbasiai-svg/agent-office">agent-office</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/amirrezaabbasiai-svg/amirrezaabbasiai-svg/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/amirrezaabbasiai-svg/amirrezaabbasiai-svg/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h2>Technical toolkit</h2>
 
-###
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=amirrezaabbasiai-svg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F249611022%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=amirrezaabbasiai-svg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F249611022%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Amirreza Abbasi technology stack" />
+</picture>
+</p>
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=amirrezaabbasiai-svg.amirrezaabbasiai-svg&"  />
-</div>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>44% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>31% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>21% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>Dockerfile</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
 
-###
+<h2>Consistency signal</h2>
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=amirrezaabbasiai-svg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F249611022%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=amirrezaabbasiai-svg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F249611022%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Amirreza Abbasi contribution activity" />
+</picture>
+</p>
 
-###
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/amirrezaabbasiai-svg">GitHub</a><br /><a href="https://amirrezaabbasi.taplink.bio">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Amirreza Abbasi · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
