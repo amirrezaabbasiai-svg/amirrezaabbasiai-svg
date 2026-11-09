@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · amirrezaabbasiai-svg</sub></p>
 <h1>Amirreza Abbasi</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>AI engineer</h2>
 <p>AI &amp; Computer Vision Enthusiast | Python Developer | Local AI &amp; Ollama User | Building privacy-focused and offline AI solutions with a passion for open-source</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
